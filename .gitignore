@@ -1,0 +1,5 @@
+server/.idea
+client/CloudText/.vs
+client/CloudText/bin
+client/CloudText/obj
+client/CloudText/packages
